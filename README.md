@@ -1,5 +1,7 @@
 => Steps Performed
 
+Created folder "Terraform-Student-Instance"
+
 Created Terraform configuration files:
 
 main.tf
