@@ -2,7 +2,7 @@
 
 Created folder "Terraform-Student-Instance"
 
-Created Terraform configuration files:
+Created Terraform configuration files and Added code:
 
 main.tf
 
