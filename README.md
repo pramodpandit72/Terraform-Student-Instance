@@ -2,8 +2,7 @@
 
 
 1. Created a project folder named **Terraform-Student-Instance**
-=======
-Created folder "Terraform-Student-Instance"
+
 
 Created Terraform configuration files and Added code:
 
