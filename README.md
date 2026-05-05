@@ -1,12 +1,11 @@
 ## Steps Performed
 
-<<<<<<< HEAD
+
 1. Created a project folder named **Terraform-Student-Instance**
 =======
 Created folder "Terraform-Student-Instance"
 
 Created Terraform configuration files and Added code:
->>>>>>> 863cec427730d3db0330c9400ead94738ff71aac
 
 2. Created Terraform configuration files:
 
