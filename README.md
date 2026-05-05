@@ -39,7 +39,9 @@ Created Terraform configuration files and Added code:
 ## Commands Used
 
 terraform init
+
 terraform plan
+
 terraform apply
 
 ---
